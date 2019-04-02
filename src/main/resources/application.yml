@@ -1,0 +1,11 @@
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    #username: root
+#    #password: 345666
+#    #url: jdbc:mysql://60.212.191.183:8084/paoba?autoReconnect=true&useSSL=true&useUnicode=true&characterEncoding=utf-8
+#
+#
+#    username: root
+#    password: root
+#    url: jdbc:mysql://127.0.0.1:3306/paoba?characterEncoding=utf-8&useSSL=false&createDatabaseIfNotExist=true&allowPublicKeyRetrieval=true
